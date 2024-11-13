@@ -60,6 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_ak991x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_ak991x_0.json \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_bmi26x_0.json \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_bmp380_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_bmp380_0.json \
+    vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_bu52053nvx_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_bu52053nvx_0.json \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_mmc5603x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_mmc5603x_0.json \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_qrd_alsps.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_alsps.json \
     vendor/oneplus/kebab/proprietary/odm/etc/sensor/config/kona_qrd_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_bmi26x_0.json \
